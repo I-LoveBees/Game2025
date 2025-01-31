@@ -1,3 +1,3 @@
-[submodule "Scripts"]
-	path = Scripts
+[submodule "SnakeCrawl/Assets/Scripts"]
+	path = SnakeCrawl/Assets/Scripts
 	url = https://github.com/I-LoveBees/Scripts
